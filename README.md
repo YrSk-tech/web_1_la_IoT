@@ -1,2 +1,2 @@
-# web_1_la_IoT
+# web_1_lab_IoT
 Landing page 
